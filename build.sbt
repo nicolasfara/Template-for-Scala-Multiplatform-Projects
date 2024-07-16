@@ -10,7 +10,7 @@ lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
         _.withLTO(LTO.thin)
           .withMode(Mode.releaseSize)
           .withGC(GC.immix)
-          .withTargetTriple("x86_64-apple-macosx10.14.0")
+          .withTargetTriple("aarch64-apple-macosx11.0.0")
       }
     )
     .jsSettings(
