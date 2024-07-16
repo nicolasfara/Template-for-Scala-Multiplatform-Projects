@@ -4,11 +4,13 @@ val scala3Version = "3.4.2"
 
 lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
   .in(file("."))
+  .configs()
     .nativeSettings(
       nativeConfig ~= {
         _.withLTO(LTO.thin)
-          .withMode(Mode.releaseFast)
+          .withMode(Mode.releaseSize)
           .withGC(GC.immix)
+          .withTargetTriple("x86_64-apple-macosx10.14.0")
       }
     )
     .jsSettings(
@@ -24,4 +26,18 @@ lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
       "-indent",
     ),
     libraryDependencies ++= Seq()
+  )
+
+lazy val macOsArm64 = root.native
+  .settings(
+    nativeConfig ~= {
+      _.withTargetTriple("aarch64-apple-macosx11.0.0")
+    }
+  )
+
+lazy val macOsX64 = root.native
+  .settings(
+    nativeConfig ~= {
+      _.withTargetTriple("x86_64-apple-macosx10.14.0")
+    }
   )
