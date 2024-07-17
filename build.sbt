@@ -7,7 +7,7 @@ lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
   .configs()
     .nativeSettings(
       nativeConfig ~= {
-        _.withLTO(LTO.thin)
+        _.withLTO(LTO.default)
           .withMode(Mode.releaseSize)
           .withGC(GC.immix)
       }
