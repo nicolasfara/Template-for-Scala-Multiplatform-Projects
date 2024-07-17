@@ -15,5 +15,6 @@ config.plugins.push(
     "@semantic-release/github",
     "@semantic-release/git",
 )
+config.tagFormat = "v${version}"
 
 export default config
