@@ -4,6 +4,7 @@ val scala3Version = "3.4.2"
 
 ThisBuild / scalaVersion := scala3Version
 ThisBuild / organization := "it.nicolasfarabegoli"
+ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
 ThisBuild / homepage := Some(url("https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects"))
 ThisBuild / licenses := List("Apache-2.0" -> url("https://www.apache.org/licenses/LICENSE-2.0"))
 ThisBuild / versionScheme := Some("early-semver")
