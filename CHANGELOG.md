@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.0.1...v1.0.2) (2024-09-20)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.5.1 ([3191258](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/31912583071ddbec16cd9d2b45d06fe95dca7be9))
+
 ## [1.0.1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.0.0...v1.0.1) (2024-09-20)
 
 ### Dependency updates
