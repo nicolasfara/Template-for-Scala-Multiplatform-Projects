@@ -1,3 +1,43 @@
+## [1.0.3](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.0.2...v1.0.3) (2024-10-21)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.6.1 ([22a52dd](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/22a52dd84fd8870cfefc2deab2e004ff3b19f24b))
+* **deps:** update dependency com.github.sbt:sbt-ci-release to v1.7.0 ([b2246be](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/b2246be0e93af9b3f19f4a9312fb5fbda6455438))
+* **deps:** update dependency com.github.sbt:sbt-ci-release to v1.8.0 ([32e1333](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/32e1333e2ccb4355e5fcd9b4881deed691e50ba5))
+* **deps:** update dependency org.scala-js:sbt-scalajs to v1.17.0 ([b916ec1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/b916ec163744fd15de0e4a30b8432f11eaf8fef2))
+* **deps:** update dependency sbt/sbt to v1.10.3 ([78d9303](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/78d93031a4fa3f0503db4807f99d08674d070f67))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.107 ([d15d115](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/d15d115de6726f58ea28e98bb032ab48e6f0be58))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.108 ([4017f81](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/4017f81d90ea7136af40e8afe30164d0e5cb521c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.109 ([33a83fa](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/33a83fa4a5e82d4fa2cc397fa767cad7bedf0e68))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([d3b0e6f](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/d3b0e6f4276f2df529846a8edaf45f24b7ff2f21))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([e60163e](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/e60163e30cdbb872f9e8106ac2afe67bc757ed06))
+* **deps:** update node.js to 20.18 ([9251792](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/92517920a60024e884c4849b9c0b3c79a2e64d24))
+
+### Build and continuous integration
+
+* call check task ([8103570](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/81035702e6d006e879a43aa61f7f245881005e0c))
+* **deps:** update actions/checkout action to v4.2.0 ([164f204](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/164f204e78abb7467d1d7bb3d10d2a646a7bb203))
+* **deps:** update actions/checkout action to v4.2.1 ([11bde0f](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/11bde0f18abb5b5b26858784a9d54d17730bcbb6))
+* **deps:** update actions/setup-node action to v4.0.4 ([87374f4](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/87374f44f0fc666a64ce3682b964108958b4b010))
+* **deps:** update dependency ubuntu to v24 ([b8b034b](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/b8b034bc2b1447775e83c31cb84514ba8be28448))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.10 ([ff39162](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/ff391622400c33fa245323dd6e5840f41bc35a0b))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.5 ([ab90266](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/ab90266c0302a6e820c2c2a5d0579dc54e2663c2))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.6 ([c22ed99](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/c22ed99296d9fb55b73507e5d6d52f91927faf46))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.7 ([b849da8](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/b849da8fdcecafa07fd158147db4e4ec1f3e5ef8))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.8 ([d5bb616](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/d5bb616400bccffa0c2a0b297b1a406f7a6af3dd))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.9 ([97c354b](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/97c354bed753004e38f71735fc15d1d7a260b626))
+* set codecov token explicit ([dcfe3b7](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/dcfe3b7bb73568902fa03f6b2f88f8407c39a30e))
+* setup scalafmt and check task ([e1215f0](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/e1215f0cc53ed52d4229e75eb5f4583104915e9a))
+
+### General maintenance
+
+* add gitattributes ([2d613ef](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/2d613efa10f025da6ec7b780a19f0f025e2fab47))
+
+### Style improvements
+
+* add missing newline ([fb59ef8](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/fb59ef8541940a5005a21d31db5b4a31665651d2))
+
 ## [1.0.2](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.0.1...v1.0.2) (2024-09-20)
 
 ### Dependency updates
