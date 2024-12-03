@@ -1,6 +1,7 @@
 package it.nicolasfarabegoli.nicolasfarabegoli
 
 import it.nicolasfarabegoli.SharedCode
+
 import org.scalajs.dom
 
 @main
