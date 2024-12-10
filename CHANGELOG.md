@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.0...v1.1.1) (2024-12-10)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.6.2 ([7e0382a](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/7e0382ab9252ff2655b04e0238ab539bcd0e39c5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.116 ([5653109](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/56531092a3e6f00f3f8bd78160273b461e92adb3))
+
 ## [1.1.0](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.0.3...v1.1.0) (2024-12-03)
 
 ### Features
