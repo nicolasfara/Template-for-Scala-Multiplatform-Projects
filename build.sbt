@@ -42,7 +42,7 @@ ThisBuild / scalacOptions ++= Seq(
 ThisBuild / coverageEnabled := true
 ThisBuild / semanticdbEnabled := true
 ThisBuild / semanticdbVersion := scalafixSemanticdb.revision
-ThisBuild / wartremoverErrors ++= Warts.unsafe
+ThisBuild / wartremoverErrors ++= Warts.allBut(Wart.Any)
 ThisBuild / libraryDependencies ++= Seq(
   "org.scalatest" %%% "scalatest" % "3.2.19" % Test
 )
