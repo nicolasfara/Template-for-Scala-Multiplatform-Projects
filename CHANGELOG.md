@@ -1,3 +1,12 @@
+## [1.1.3](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.2...v1.1.3) (2025-02-20)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.6.3 ([1e75dc0](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/1e75dc082aa7678dce221319e8769d22e79d60a1))
+* **deps:** update dependency ch.epfl.scala:sbt-scalafix to v0.14.2 ([f0e8813](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/f0e8813d71f42f2269372bd441024442b78c594e))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.3.0 ([538141e](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/538141eccdd325f8150f5693a09e57b28a897a79))
+* **deps:** update dependency sbt/sbt to v1.10.7 ([0d5557d](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/0d5557d784b65976603aa0cf77ab64ac6a54862c))
+
 ## [1.1.2](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.1...v1.1.2) (2025-02-20)
 
 ### Dependency updates
