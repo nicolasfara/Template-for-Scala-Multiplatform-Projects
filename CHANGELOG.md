@@ -1,3 +1,17 @@
+## [1.1.2](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.1...v1.1.2) (2025-02-20)
+
+### Dependency updates
+
+* **deps:** update dependency com.github.sbt:sbt-ci-release to v1.9.2 ([3a5fa64](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/3a5fa640baffddd1201dd9b978c3b93cea488e43))
+
+### Bug Fixes
+
+* disable wart any ([1559ead](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/1559ead74e244652c263ece74bf16c6be9f0df14))
+
+### Build and continuous integration
+
+* add wartremover ([1dfd6f6](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/1dfd6f618a72de887bf7b336abe96cf38e377aa6))
+
 ## [1.1.1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.0...v1.1.1) (2024-12-10)
 
 ### Dependency updates
