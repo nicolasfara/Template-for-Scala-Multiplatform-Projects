@@ -1,3 +1,30 @@
+## [1.1.5](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.4...v1.1.5) (2025-05-06)
+
+### Dependency updates
+
+* **core-deps:** update dependency scala to v3.7.0 ([7139a54](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/7139a543bb9d061ec9b2a4bd1b49a9f5f3de393e))
+* **deps:** update dependency com.github.sbt:sbt-ci-release to v1.9.3 ([0943e6b](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/0943e6b1a63301bf2637be50799ccb566a6a1a78))
+* **deps:** update dependency org.scala-js:sbt-scalajs to v1.19.0 ([f0d3d70](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/f0d3d70f9ea3659413b7b791d18486ba8d4e7322))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.3.1 ([c589f35](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/c589f35b8ff4ffe2db4eace10c351c1607196041))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.3.2 ([805c8ac](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/805c8ac7946f7ee4cf745d5dbf834496d8c0a76f))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.3.3 ([452d205](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/452d205610c7c8c06856836d7beff2c7ff5c6e51))
+* **deps:** update dependency sbt/sbt to v1.10.11 ([aabdfb5](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/aabdfb5b7b1f29ad5feaf3c4ba694dc7ea65234e))
+* **deps:** update dependency scalafmt to v3.9.4 ([bffe8ae](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/bffe8aeef2f36f1e86500d7bd1404f7bf224ab7c))
+* **deps:** update dependency scalafmt to v3.9.5 ([924b848](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/924b848887fd0ab3a955032ed762cd68b194a17d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.126 ([addbd79](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/addbd7916b9b5c1b30861d96227cf22b4be2d1b8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.127 ([83b73e3](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/83b73e32073e78279815d277b7dbec54aa0bb826))
+* **deps:** update node.js to 20.19 ([894652c](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/894652cb6d9d68206eb81c2360d77ba5c5228e8c))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.3.0 ([616a489](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/616a489077e304c6199a7f666acd97258cc06b7f))
+* **deps:** update actions/setup-node action to v4.4.0 ([ec5c640](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/ec5c6403b1f5e4410f794e73e66b4eee1b30741c))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.15 ([fcf2d41](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/fcf2d41180bf218922e3a515f208663cfc5ea519))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.16 ([994ec1e](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/994ec1e2d48c01e4cb35cef8140c7937e882f15f))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.17 ([b9eeece](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/b9eeece5929267370971c6eef14d118748dde1ed))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.18 ([42fd85a](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/42fd85ae6848e43c8fbf5c8dcf79448731e7536e))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.19 ([e5ddb23](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/e5ddb23b5039e276b0d542045fb5707184fdfa0d))
+
 ## [1.1.4](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.3...v1.1.4) (2025-03-07)
 
 ### Dependency updates
