@@ -3,8 +3,7 @@ import scala.scalanative.build.*
 val scala3Version = "3.7.1"
 
 ThisBuild / scalaVersion := scala3Version
-ThisBuild / organization := "it.nicolasfarabegoli"
-ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
+ThisBuild / organization := "io.github.nicolasfara"
 ThisBuild / homepage := Some(
   url(
     "https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects"
@@ -64,7 +63,4 @@ lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
   )
   .settings(
     name := "Template-for-Scala-Multiplatform-Projects",
-    sonatypeCredentialHost := "s01.oss.sonatype.org",
-    sonatypeRepository := "https://s01.oss.sonatype.org/service/local",
-    sonatypeProfileName := "it.nicolasfarabegoli"
   )
