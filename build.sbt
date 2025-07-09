@@ -47,6 +47,7 @@ ThisBuild / libraryDependencies ++= Seq(
 )
 
 lazy val root = crossProject(JSPlatform, JVMPlatform, NativePlatform)
+  .crossType(CrossType.Pure)
   .in(file("."))
   .configs()
   .nativeSettings(
