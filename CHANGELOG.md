@@ -1,3 +1,29 @@
+## [2.0.0](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.6...v2.0.0) (2025-07-09)
+
+### ⚠ BREAKING CHANGES
+
+* change project structure
+
+### Dependency updates
+
+* **deps:** update dependency com.github.sbt:sbt-ci-release to v1.11.1 ([e92dc4c](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/e92dc4c674477ce1dacfba844613da272488849d))
+* **deps:** update dependency org.scala-native:sbt-scala-native to v0.5.8 ([20d3ebe](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/20d3ebefab85dc38e8e407af75da27edff48909f))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.3.5 ([008f2ce](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/008f2cec2e1f3cca099b955c566c3a5b111aa42e))
+* **deps:** update dependency org.wartremover:sbt-wartremover to v3.4.0 ([560cce1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/560cce1471fafc190710563e2ce7207716a8b9bb))
+* **deps:** update dependency sbt/sbt to v1.11.2 ([6dcd7ee](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/6dcd7ee5de187a612217553b4e972444379b581a))
+* **deps:** update dependency sbt/sbt to v1.11.3 ([9561676](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/9561676cdb066562ef2c7d647f18e9db671c6aab))
+* **deps:** update dependency scalafmt to v3.9.8 ([2085460](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/2085460b962878ff5fd931f154447ff90977c475))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.134 ([5d42a04](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/5d42a04c7eabcb653af58c79180a4b9c929dd116))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.135 ([6566812](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/6566812de74cc61c08bdf7f1e8bafdea767c833b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.136 ([14f115a](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/14f115a6f7411249c02152476d2b7df8066437de))
+
+### Build and continuous integration
+
+* change project structure ([3557fdc](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/3557fdc9176ecbbf60f91b09589490c45ea0a581))
+* **deps:** update nicolasfara/build-check-deploy-sbt-action action to v1.0.22 ([f317d36](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/f317d36b2fd24fec26e8d167eda58594628f352f))
+* switch to windows-2025 and ubuntu-24.04 runners ([#128](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/issues/128)) ([6e0ddca](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/6e0ddca5d71bde11f5182d886c14c858a42283f8))
+* use central portal ([d343516](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/d34351662260a71c8f0609e86d48b6e35c01d8e3))
+
 ## [1.1.6](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.5...v1.1.6) (2025-06-03)
 
 ### Dependency updates
