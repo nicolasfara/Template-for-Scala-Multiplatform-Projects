@@ -1,3 +1,13 @@
+## [2.0.1](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v2.0.0...v2.0.1) (2025-07-09)
+
+### Documentation
+
+* add CI variable to set when using the template ([3446443](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/3446443c1ad6c364dfb9ac9e5c74e6f48860cb3a))
+
+### Build and continuous integration
+
+* lf for all files ([f0aef8e](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/commit/f0aef8e35c89267b9eb2616810b7f26725c6544f))
+
 ## [2.0.0](https://github.com/nicolasfara/Template-for-Scala-Multiplatform-Projects/compare/v1.1.6...v2.0.0) (2025-07-09)
 
 ### ⚠ BREAKING CHANGES
